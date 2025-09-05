@@ -30,7 +30,8 @@ const Overview = () => {
     { name: 'ISO 20000', status: 'Coming Soon' },
     { name: 'ISO 22301', status: 'Under Development' },
     { name: 'ISO 9001', status: 'Under Development' },
-    { name: 'ISO 14000 Family', status: 'Coming Soon' },
+    { name: 'DPDP Act 2023', status: 'Coming Soon' },
+    { name: 'GDPR', status: 'Coming Soon' },
     { name: 'ISO 42001', status: 'Coming Soon' },
   ];
 
